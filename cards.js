@@ -10,7 +10,7 @@ const cards = [
     id: "2",
     title: "Build a Website",
     description: "Create a simple website using HTML, CSS, and JavaScript.",
-    imageUrl: "https://via.placeholder.com/250",
+    imageUrl: "images/car.jpg",
     link: "https://example.com/website"
   },
   {

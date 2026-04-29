@@ -17,7 +17,7 @@ const cards = [
     id: "3",
     title: "DOM Basics",
     description: "Learn how to work with the DOM and change elements on a page.",
-    imageUrl: "https://via.placeholder.com/250",
+    imageUrl: "images/car.jpg",
     link: "https://example.com/dom"
   },
   {
